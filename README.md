@@ -62,9 +62,9 @@ npm install
 
 ### 2. Set up environment
 
-Create a .env file.
+Create a `.env` file.
 
-Edit `.env.local` and set a strong `JWT_SECRET` (any long random string works for local dev).
+Edit `.env` and set a strong `JWT_SECRET` (any long random string works for local dev).
 
 ### 3. Set up the database and seed properties
 
